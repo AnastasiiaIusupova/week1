@@ -1,7 +1,8 @@
 {
   "headers": {
    "/*": {
-      "X-Author": "iusupova_anastasiia"
+      "X-Author": "iusupova_anastasiia",
+      "Access-Control-Allow-Origin": "*"
      }
    }
 }
